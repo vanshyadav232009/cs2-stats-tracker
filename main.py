@@ -1,0 +1,1 @@
+print("CS2 Stats Tracker")
